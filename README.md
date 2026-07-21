@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RiyaBangad/leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/RiyaBangad/leetcode-DSA/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RiyaBangad/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBangad/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/RiyaBangad/leetcode-DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RiyaBangad/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/RiyaBangad/leetcode-DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
